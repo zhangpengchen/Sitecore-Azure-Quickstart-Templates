@@ -61,3 +61,5 @@ The **deploymentId** and **licenseXml** parameters in azuredeploy.parameters.jso
 
 > **solrConnectionString** parameter is used to identify whether Solr search provider is to be used for the deployment or not.
 > The default value is empty which means that Azure Search will be used.
+
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
